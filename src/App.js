@@ -7,7 +7,7 @@ import Services from './Component/Services/Services';
 function App() {
 
   return (
-    <div className='min-h-screen' >
+    <div >
       <Header />
       <Services />
       <Contact />
